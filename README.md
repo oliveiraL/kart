@@ -1,5 +1,3 @@
-![](https://github.com/actions/kart/workflows/Scala%20CI/badge.svg)
-
 [![Actions Status](https://github.com/oliveiraL/kart/workflows/Scala%20CI/badge.svg)](https://github.com/oliveiraL/kart/actions)
 
 Lendo arquivo de log de uma corrida de kart e tratando seus dados com scala
